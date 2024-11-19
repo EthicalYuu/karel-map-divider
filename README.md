@@ -1,0 +1,1 @@
+# karel-map-divider
